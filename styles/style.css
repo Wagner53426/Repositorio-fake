@@ -149,6 +149,7 @@ body {
 
   .apresentacao_link_navegacao {
     border:2px solid  var(--cor-responsilvel);
+    font-size: 1rem;
   }
 
   .rodape {
